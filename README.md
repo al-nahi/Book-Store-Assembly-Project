@@ -1,7 +1,7 @@
-#Online Book Store
+# Online Book Store
 A simple and interactive online book store system that has been created using assembly language.
 
-##Features
+## Features
 * **Login**
 * **Choose Books**
 * **Choose Between Genres**
